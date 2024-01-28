@@ -1,4 +1,4 @@
-# FilesInsights
+# TRIFORM.MOVE.AI
 
 # Introduction
 <p>FilesInsights is a web application developed using Plotly Dash, Langchain, and OpenAI that offers a wide range of features for processing and exploring PDF and CSV files. This README provides an overview of the application and its functionality.</p>
