@@ -1,7 +1,7 @@
 # TRIFORM.MOVE.AI
 
 # Introduction
-<p>FilesInsights is a web application developed using Plotly Dash, Langchain, and OpenAI that offers a wide range of features for processing and exploring PDF and CSV files. This README provides an overview of the application and its functionality.</p>
+<p>Bolstered Triform AI (https://triform.movs.ai/) confidence with this automated test suite! 17 Python Selenium cases validate core features and enhance platform stability.</p>
 
 # Features
 1. 17 test cases written in Python Selenium, covering essential features and user workflows.<br>
